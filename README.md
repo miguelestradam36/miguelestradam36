@@ -5,18 +5,4 @@ These projects can be found in different languages and some only serve the purpo
 `Documented` and `Structured` solutions :page_with_curl: .
 
 
-
-
-![na](docs/img/image-3.png)
-
-Programming languages :books: I know a bit about and programming languages I would like to know (programming languages I do not have experience with so far), some examples would be:
-
-- [x] Python
-- [x] SQL
-- [x] PHP
-- [x] C++
-- [x] C#
-- [ ] Julia
-- [ ] Scala
-- [ ] Kafka
-- [x] Javascript
+!["Image"](docs/img/image-3.png)
